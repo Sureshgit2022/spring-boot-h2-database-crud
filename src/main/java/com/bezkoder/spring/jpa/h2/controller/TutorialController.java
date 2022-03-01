@@ -120,7 +120,5 @@ public class TutorialController {
 			return new ResponseEntity<>(HttpStatus.INTERNAL_SERVER_ERROR);
 		}
 	}
-//by suresh
-// by suresh 2
-/by suresh 3
+//by suresh4
 }

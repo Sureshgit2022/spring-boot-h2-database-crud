@@ -61,7 +61,5 @@ public class Tutorial {
 	public String toString() {
 		return "Tutorial [id=" + id + ", title=" + title + ", desc=" + description + ", published=" + published + "]";
 	}
-//by suresh
-// by suresh 2
-//by suresh 3
+//by suresh4
 }
